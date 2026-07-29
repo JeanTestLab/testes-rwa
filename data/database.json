@@ -11,7 +11,7 @@
       "phoneNumber": "398-225-9900",
       "avatar": "https://api.dicebear.com/9.x/pixel-art/svg?seed=Ted",
       "defaultPrivacyLevel": "public",
-      "balance": 149953,
+      "balance": 150953,
       "createdAt": "2023-03-09T22:26:40.101Z",
       "modifiedAt": "2024-03-07T10:07:57.580Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://api.dicebear.com/9.x/pixel-art/svg?seed=Kristian",
       "defaultPrivacyLevel": "private",
-      "balance": 94026,
+      "balance": 93026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -74,6 +74,28 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "1fwnmw8ZT",
+      "uuid": "346acf42-237b-4beb-a649-ae3df6f1ae3c",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "newuser_1785284865998",
+      "password": "$2a$10$XrzKwy0IZFJRa3X6EGRMHuCqmh4EiuUf3kavjj4zR73Xsqdhh2ml.",
+      "balance": 0,
+      "createdAt": "2026-07-29T00:27:51.774Z",
+      "modifiedAt": "2026-07-29T00:27:51.774Z"
+    },
+    {
+      "id": "8izHBN0Mq",
+      "uuid": "9c60271a-2ff2-401b-b163-cf753d46ec1d",
+      "firstName": "Novo",
+      "lastName": "Usuario",
+      "username": "newuser_1785284889296",
+      "password": "$2a$10$k3xEdlwBiUhiO22RBBM9luXrJ65LHgOoAZrnnInfGNOu7cEC2ZySC",
+      "balance": 0,
+      "createdAt": "2026-07-29T00:28:14.044Z",
+      "modifiedAt": "2026-07-29T00:28:14.044Z"
     }
   ],
   "contacts": [
@@ -253,6 +275,28 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "bFSJvAY4_",
+      "uuid": "3c2c26ec-ec0e-4d1a-9e03-73cd333c9908",
+      "userId": "1fwnmw8ZT",
+      "bankName": "Banco Cypress",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2026-07-29T00:27:53.942Z",
+      "modifiedAt": "2026-07-29T00:27:53.942Z"
+    },
+    {
+      "id": "BcHE7B8f_",
+      "uuid": "934421fd-714d-4c0c-8af8-f426f27f02e6",
+      "userId": "8izHBN0Mq",
+      "bankName": "Banco Cypress",
+      "accountNumber": "123456789",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2026-07-29T00:28:16.229Z",
+      "modifiedAt": "2026-07-29T00:28:16.229Z"
     }
   ],
   "transactions": [
@@ -9855,18 +9899,6 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
-    },
-    {
-      "id": "R9A5piDpo",
-      "uuid": "9d1bb92c-8bac-498b-9c74-8eeaaac30bba",
-      "amount": 1000,
-      "description": "Pagamento de teste",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "uBmeaz5pX",
-      "privacyLevel": "public",
-      "status": "complete",
-      "createdAt": "2026-07-21T20:25:29.846Z",
-      "modifiedAt": "2026-07-21T20:25:29.846Z"
     }
   ],
   "likes": [
@@ -10443,16 +10475,6 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
-    },
-    {
-      "id": "raJpvdazew",
-      "uuid": "c62b2685-dfa8-4bf5-ba1e-867c58b3abc8",
-      "userId": "GjWovtg2hr",
-      "transactionId": "R9A5piDpo",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2026-07-21T20:25:29.855Z",
-      "modifiedAt": "2026-07-21T20:25:29.855Z"
     }
   ],
   "banktransfers": [
